@@ -1,9 +1,9 @@
 # Kotlin blog API
 
-##Requirements to run MongoDB:
+## Requirements to run MongoDB:
 - Docker
 
-##Launching MongoDB
+## Launching MongoDB
 Run the following command in the root folder containing docker-compose.yml:  
 ``docker-compose up``
 
